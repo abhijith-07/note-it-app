@@ -1,0 +1,51 @@
+  #toolbar .ql-font span[data-label="Sans Serif"]::before {
+    font-family: "Sans Serif";
+  }
+  
+  #toolbar .ql-font span[data-label="Inconsolata"]::before {
+    font-family: "Inconsolata";
+  }
+  
+  #toolbar .ql-font span[data-label="Roboto"]::before {
+    font-family: "Roboto";
+  }
+
+  #toolbar .ql-font span[data-label="Monospace"]::before {
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  #toolbar .ql-font span[data-label="Mirza"]::before {
+    font-family: "Mirza";
+  }
+  
+  #toolbar .ql-font span[data-label="Arial"]::before {
+    font-family: "Arial";
+  }
+  
+  #toolbar .ql-font span[data-label="Times New Roman"]::before {
+    font-family: 'Times New Roman', Times;
+  }
+  
+  .ql-font-inconsolata {
+    font-family: "Inconsolata";
+  }
+  
+  .ql-font-roboto {
+    font-family: "Roboto";
+  }
+
+  .ql-font-monospace {
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .ql-font-mirza {
+    font-family: "Mirza";
+  }
+  
+  .ql-font-arial {
+    font-family: "Arial";
+  }
+
+  .ql-font-times-new-roman {
+    font-family: 'Times New Roman', Times;
+  }

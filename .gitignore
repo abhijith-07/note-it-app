@@ -1,0 +1,12 @@
+# frontend
+/frontend/node_modules/
+
+# virtual environment and docs
+/env/
+/docs/
+
+# backend
+/backend/db.sqlite3
+/backend/api/__pycache__/
+/backend/api/migrations/
+/backend/note_it/__pycache__/

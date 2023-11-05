@@ -1,0 +1,11 @@
+.add-note {
+    margin-top: .5rem;
+    text-align: right;
+  }
+  
+.add-note .add-button {
+    background-color: transparent;
+    border: none;
+    color: blue;
+    cursor: pointer;
+  }

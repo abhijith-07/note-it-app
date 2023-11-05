@@ -1,0 +1,29 @@
+#toolbar {
+    margin-top: 1rem;
+    transform: scale(1.15);
+    transform-origin: center center;
+    padding: .25rem 2rem;
+    display: flex;
+    justify-content: center;
+    border: none;
+}
+
+.text-editor .ql-editor {
+    background-color: #ffffff;
+    width: 8.5in;
+    min-height: 11in;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, .5);
+    margin: 1rem;
+    padding: 1in;
+}
+
+.text-editor .ql-container.ql-snow {
+    border: none;
+    width: 8.5in;
+    min-height: 11in;
+    margin: auto;
+}
+
+.quill > .ql-container > .ql-editor.ql-blank::before{
+    margin-left: 1in;
+}
