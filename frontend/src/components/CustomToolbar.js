@@ -58,6 +58,8 @@ export const CustomToolbar = (props) => {
                 <option value=" #000" />
             </select>
 
+            <button className="ql-list" value='bullet' />
+            <button className="ql-list" value='ordered' />
             <button className='ql-align' value='' />
             <button className='ql-align' value='center' />
             <button className='ql-align' value='right' />
