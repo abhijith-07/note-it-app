@@ -1,7 +1,7 @@
 # Note it
 **Note it** is a notes application that allows users to create folders and add multiple notes to the corresponding folder.
 
-Screenshots
+# Screenshots
 ![Screenshot 2023-11-05 at 20-40-47 Note it](https://github.com/abhijith-07/note-it-app/assets/67973073/16a711bb-da97-4c51-8172-83aa0ac8c073)
 
 ![Screenshot 2023-11-06 at 19-04-14 Note it](https://github.com/abhijith-07/note-it-app/assets/67973073/89dc42a5-4dbf-4a88-827b-70b21070c47c)
